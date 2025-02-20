@@ -1,6 +1,6 @@
 {
   "name": "react-visibility-persist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A flexible visibility management system for React components with persistence support",
   "type": "module",
   "main": "dist/index.js",
